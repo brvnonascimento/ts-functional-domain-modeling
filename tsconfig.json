@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "incremental": true,
+        "rootDir": "src",
+        "target": "es5",
+        "lib": [
+            "ESNext",
+            "DOM"
+        ],
+        "module": "commonjs",
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
